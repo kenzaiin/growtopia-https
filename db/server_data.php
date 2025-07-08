@@ -1,4 +1,4 @@
-server|127.0.0.1
+server|178.128.204.21
 port|17091
 type|1
 loginurl|gtps.playserver.me
